@@ -4,7 +4,6 @@
 - 👋 Hi, I’m @AryKenned
 - 👀 Tenho grandes sonhos com a programação, todos os dias ando um pouquinho mais para alcança-los.
 - 🌱 Eu estou aprendo cada da mais um pouco de front-end e descobrindo novas coisas com o C#, que atualmente e minha linguagem de back-end.
-- 📫 Eu sou de Goiânia, onde vivo há muito tempo e não penso em sair nunca.
 
 <div>
   
@@ -16,7 +15,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">As Tecnologias que estou injetando na veia a través do café => ☕ </h1>
+    <h2 align="center">As Tecnologias que estou injetando na mente via café  =>  ☕ </h2>
     <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -32,8 +31,8 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: arykenned.27@outlook.com">
-      <img width="30" src="outlook.svg">
+    <a href = "mailto: arykenned27@gmail.com">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/ary-kenned-oliveira-de-abreu-53ba58172/">
       <img width="25" src="linkedin.svg">
@@ -45,6 +44,7 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
+
+
 ![Snake animation](https://github.com/AryKenned/AryKenned/blob/output/github-contribution-grid-snake.svg)
 
