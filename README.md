@@ -1,4 +1,3 @@
-
 ## Faaaala dev, tudo bem com vcs?? Ary Kenned Aqui!
 
 - 👋 Hi, I’m @AryKenned
@@ -6,7 +5,6 @@
 - 🌱 Eu estou aprendo cada da mais um pouco de front-end e descobrindo novas coisas com o C#, que atualmente e minha linguagem de back-end.
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AryKenned&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryKenned&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -15,7 +13,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h2 align="center">As Tecnologias que estou injetando na mente via café  =>  ☕ </h2>
+    <h2 align="center"> As Tecnologias que estou injetando na mente via café  =>   ☕  </h2>
     <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -30,21 +28,16 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Minhas Redes Sociais</h1>
     <a href = "mailto: arykenned27@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/ary-kenned-oliveira-de-abreu-53ba58172/">
       <img width="25" src="linkedin.svg">
     </a>
-    <!-- <a href = "">
-      <img width="35" src="youtube.svg">
-    </a> -->
     <a href = "https://www.instagram.com/arykenned27/">
       <img width="25" src="instagram.png">
     </a>
 </div>
 
-
 ![Snake animation](https://github.com/AryKenned/AryKenned/blob/output/github-contribution-grid-snake.svg)
-
