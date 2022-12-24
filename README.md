@@ -28,15 +28,15 @@
    </div>
     
   
-  <h1 align="center">Minhas Redes Sociais</h1>
-    <a href = "mailto: arykenned27@gmail.com">
-      <img width="30" src="gmail.svg">
+  <h1 align="right">Minhas Redes Sociais</h1>
+    <a align="right"href = "mailto: arykenned27@gmail.com">
+      <img align="right" width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/ary-kenned-oliveira-de-abreu-53ba58172/">
-      <img width="25" src="linkedin.svg">
+      <img align="right" width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/arykenned27/">
-      <img width="25" src="instagram.png">
+      <img align="right" width="25" src="instagram.png">
     </a>
 </div>
 
