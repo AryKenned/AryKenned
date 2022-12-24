@@ -5,8 +5,8 @@
 - 🌱 Eu estou aprendo cada da mais um pouco de front-end e descobrindo novas coisas com o C#, que atualmente e minha linguagem de back-end.
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AryKenned&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryKenned&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=AryKenned&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryKenned&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
 
