@@ -1,7 +1,7 @@
 ## Faaaala dev, tudo bem com vcs?? Ary Kenned Aqui!
 
 - 👋 Hi, I’m @AryKenned
-- 👀 Tenho grandes sonhos com a programação, todos os dias ando um pouquinho mais para alcança-los.
+- 👀 Tenho grandes sonhos com a programação, todos os dias me esfoço mais um pouquinho para alcança-los.
 - 🌱 Eu estou aprendo cada da mais um pouco de front-end e descobrindo novas coisas com o C#, que atualmente e minha linguagem de back-end.
 
 <div>
