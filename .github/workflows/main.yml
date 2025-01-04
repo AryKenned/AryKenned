@@ -12,19 +12,23 @@ jobs:
     steps:
       # Step 1: Checkout Repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Step 2: Generate Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v2.0.0
-        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: AryKenned
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      # Step 3: Deploy to GitHub Pages
+      # Step 3: Disable Jekyll (Optional)
+      - name: Disable Jekyll
+        run: touch dist/.nojekyll
+
+      # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
